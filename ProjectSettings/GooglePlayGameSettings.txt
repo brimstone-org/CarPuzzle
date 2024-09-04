@@ -1,0 +1,10 @@
+lastUpgrade=01011
+proj.pluginVersion=0.10.11
+proj.AppId=831198448809
+and.BundleId=com.tedrasoft.drive.traffic.control
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e831198448809%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.tedrasoft.drive.traffic.control%3c%2fstring%3e%0d%0a++%3c%21--achievement+Sunday+Traffic--%3e%0d%0a++%3cstring+name%3d%22achievement_sunday_traffic%22+translatable%3d%22false%22%3eCgkIqZmnupgYEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Sunday+Traffic+2--%3e%0d%0a++%3cstring+name%3d%22achievement_sunday_traffic_2%22+translatable%3d%22false%22%3eCgkIqZmnupgYEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--achievement+Rush+Hour--%3e%0d%0a++%3cstring+name%3d%22achievement_rush_hour%22+translatable%3d%22false%22%3eCgkIqZmnupgYEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--achievement+Rush+Hour+2--%3e%0d%0a++%3cstring+name%3d%22achievement_rush_hour_2%22+translatable%3d%22false%22%3eCgkIqZmnupgYEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Heavy+Traffic--%3e%0d%0a++%3cstring+name%3d%22achievement_heavy_traffic%22+translatable%3d%22false%22%3eCgkIqZmnupgYEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Heavy+Traffic+2--%3e%0d%0a++%3cstring+name%3d%22achievement_heavy_traffic_2%22+translatable%3d%22false%22%3eCgkIqZmnupgYEAIQBA%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true

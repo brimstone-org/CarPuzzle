@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "831198448809-vuknippflkr37ra3vkl32kb9ap7r0v9d.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjjM7E3AT1xz8ThavXkMfsnspSnUjlEuQ"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:831198448809:ios:c1b464e86f16a11baa2db8", 
+        "android_client_info": {
+          "package_name": "com.tedrasoft.drive.traffic.control"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "city-driving---traffic-con-648.appspot.com", 
+    "project_id": "city-driving---traffic-con-648", 
+    "firebase_url": "https://city-driving-traffic-con-648.firebaseio.com", 
+    "project_number": "831198448809"
+  }
+}

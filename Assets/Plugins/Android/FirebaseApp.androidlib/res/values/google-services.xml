@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://city-driving-traffic-con-648.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">831198448809</string>
+  <string name="google_storage_bucket" translatable="false">city-driving---traffic-con-648.appspot.com</string>
+  <string name="project_id" translatable="false">city-driving---traffic-con-648</string>
+  <string name="google_api_key" translatable="false">AIzaSyBaqfVs6ogLjldF5C2aLDb2AuvMs4Zg5Tc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBaqfVs6ogLjldF5C2aLDb2AuvMs4Zg5Tc</string>
+  <string name="google_app_id" translatable="false">1:831198448809:android:95f2a619c4115bad</string>
+  <string name="default_android_client_id" translatable="false">831198448809-9qlv4lavsboe5vuf0jqnudhh77s677s7.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">831198448809-kdfdr0lbddvpfq7auca0t74o16j25b1h.apps.googleusercontent.com</string>
+</resources>

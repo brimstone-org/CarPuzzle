@@ -1,0 +1,1632 @@
+{
+    "tiles": [
+        {
+            "tileId": 56,
+            "x": 12,
+            "y": 3,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 9,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 5,
+            "y": 5,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 0,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 5,
+            "y": 4,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 37,
+            "x": 8,
+            "y": 1,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 11,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 8,
+            "y": 3,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 2,
+            "y": 5,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 7,
+            "y": 6,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 3,
+            "y": 1,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 3,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 0,
+            "y": 4,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 4,
+            "y": 9,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 7,
+            "y": 7,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 38,
+            "x": 7,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 13,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 13,
+            "y": 9,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 7,
+            "y": 5,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 10,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 3,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 11,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 11,
+            "y": 6,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 3,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 4,
+            "y": 1,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 8,
+            "y": 5,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 58,
+            "x": 8,
+            "y": 4,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 0,
+            "y": 6,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 0,
+            "y": 1,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 3,
+            "y": 4,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 2,
+            "y": 3,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 9,
+            "y": 9,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 12,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 0,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 11,
+            "y": 1,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 2,
+            "y": 1,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 9,
+            "y": 3,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 13,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 7,
+            "y": 3,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 1,
+            "y": 9,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 9,
+            "y": 5,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 2,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 11,
+            "y": 4,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 3,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 10,
+            "y": 5,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 4,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 6,
+            "y": 2,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 9,
+            "y": 7,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 1,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 3,
+            "y": 5,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 8,
+            "y": 9,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 9,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 12,
+            "y": 1,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 10,
+            "y": 1,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 13,
+            "y": 1,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 10,
+            "y": 4,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 58,
+            "x": 5,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 4,
+            "y": 3,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 10,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 13,
+            "x": 5,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 1,
+            "y": 5,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 1,
+            "y": 1,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 28,
+            "x": 7,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 11,
+            "y": 7,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 3,
+            "y": 3,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 12,
+            "y": 6,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 1,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 2,
+            "y": 9,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 10,
+            "y": 3,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 0,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 11,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 10,
+            "y": 9,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 12,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 1,
+            "y": 7,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 0,
+            "y": 3,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 12,
+            "y": 4,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 3,
+            "y": 7,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 2,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 6,
+            "y": 3,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 6,
+            "y": 5,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 36,
+            "x": 7,
+            "y": 1,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 13,
+            "y": 3,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 25,
+            "x": 6,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 2,
+            "y": 6,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 13,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 11,
+            "y": 3,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 4,
+            "y": 5,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 10,
+            "y": 7,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 13,
+            "y": 5,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 1,
+            "y": 3,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 5,
+            "y": 1,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 12,
+            "y": 7,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 3,
+            "y": 9,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 39,
+            "x": 8,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 4,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 9,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 13,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 10,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 7,
+            "y": 4,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 12,
+            "y": 9,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 1,
+            "y": 6,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 58,
+            "x": 8,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 5,
+            "y": 3,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 2,
+            "y": 4,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 24,
+            "x": 5,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 5,
+            "y": 7,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 4,
+            "y": 4,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 3,
+            "y": 6,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 6,
+            "y": 4,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 1,
+            "y": 4,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 1,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 2,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 0,
+            "y": 9,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 6,
+            "y": 6,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 19,
+            "x": 6,
+            "y": 9,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 12,
+            "y": 5,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 8,
+            "y": 6,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 12,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 4,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 0,
+            "y": 7,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 2,
+            "y": 7,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 4,
+            "y": 6,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 18,
+            "x": 6,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 16,
+            "x": 5,
+            "y": 9,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 29,
+            "x": 8,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 8,
+            "y": 7,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 14,
+            "x": 6,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 4,
+            "y": 7,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 9,
+            "y": 1,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 11,
+            "y": 9,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 10,
+            "y": 10,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 57,
+            "x": 0,
+            "y": 5,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 13,
+            "y": 6,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 9,
+            "y": 6,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 55,
+            "x": 13,
+            "y": 7,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 7,
+            "y": 8,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 9,
+            "y": 4,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 10,
+            "y": 6,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 56,
+            "x": 11,
+            "y": 5,
+            "rotation": 90,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 2,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 17,
+            "x": 5,
+            "y": 8,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 1,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 4,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 7,
+            "y": 9,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 6,
+            "y": 7,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 12,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 43,
+            "x": 8,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 13,
+            "y": 4,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 9,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 11,
+            "y": 2,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 58,
+            "x": 5,
+            "y": 6,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 42,
+            "x": 7,
+            "y": 0,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        },
+        {
+            "tileId": 22,
+            "x": 6,
+            "y": 1,
+            "rotation": 0,
+            "greenTime": 0,
+            "redTime": 0,
+            "green": false,
+            "startingStepTime": 0
+        }
+    ],
+    "cars": [
+        {
+            "carId": 4,
+            "startingX": 11,
+            "startingY": 0,
+            "startingTime": 0,
+            "startingRotation": 180
+        },
+        {
+            "carId": 3,
+            "startingX": 12,
+            "startingY": 8,
+            "startingTime": 0,
+            "startingRotation": 180
+        },
+        {
+            "carId": 1,
+            "startingX": 1,
+            "startingY": 10,
+            "startingTime": 0,
+            "startingRotation": 0
+        },
+        {
+            "carId": 5,
+            "startingX": 2,
+            "startingY": 4,
+            "startingTime": 0,
+            "startingRotation": 0
+        },
+        {
+            "carId": 2,
+            "startingX": 11,
+            "startingY": 4,
+            "startingTime": 0,
+            "startingRotation": 180
+        },
+        {
+            "carId": 0,
+            "startingX": 5,
+            "startingY": 7,
+            "startingTime": 0,
+            "startingRotation": 0
+        }
+    ],
+    "objectives": [
+        {
+            "objectiveId": 4,
+            "isDestination": true,
+            "x": 0,
+            "y": 8,
+            "rotation": 0
+        },
+        {
+            "objectiveId": 5,
+            "isDestination": true,
+            "x": 13,
+            "y": 8,
+            "rotation": 180
+        },
+        {
+            "objectiveId": 2,
+            "isDestination": true,
+            "x": 0,
+            "y": 0,
+            "rotation": 0
+        },
+        {
+            "objectiveId": 0,
+            "isDestination": true,
+            "x": 13,
+            "y": 2,
+            "rotation": 180
+        },
+        {
+            "objectiveId": 3,
+            "isDestination": true,
+            "x": 13,
+            "y": 0,
+            "rotation": 180
+        },
+        {
+            "objectiveId": 1,
+            "isDestination": true,
+            "x": 0,
+            "y": 4,
+            "rotation": 0
+        }
+    ]
+}

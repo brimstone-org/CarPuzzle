@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "831198448809",
+    "firebase_url": "https://city-driving-traffic-con-648.firebaseio.com",
+    "project_id": "city-driving---traffic-con-648",
+    "storage_bucket": "city-driving---traffic-con-648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831198448809:android:95f2a619c4115bad",
+        "android_client_info": {
+          "package_name": "com.tedrasoft.drive.traffic.control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831198448809-9qlv4lavsboe5vuf0jqnudhh77s677s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tedrasoft.drive.traffic.control",
+            "certificate_hash": "09240cf8fbfdcb492cc5bacf3b412fe69ce4ead4"
+          }
+        },
+        {
+          "client_id": "831198448809-kdfdr0lbddvpfq7auca0t74o16j25b1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaqfVs6ogLjldF5C2aLDb2AuvMs4Zg5Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831198448809-kdfdr0lbddvpfq7auca0t74o16j25b1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9461498517326987~7050667350"
+    }
+  ],
+  "configuration_version": "1"
+}
